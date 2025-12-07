@@ -58,7 +58,7 @@ Cada parte tem uma função específica e roda em containers via Docker.
 
 docker compose up -d --build
 
-3. Ver logs do coletor e worker
+### 3. Ver logs do coletor e worker
 
 docker compose logs -f collector worker
 
